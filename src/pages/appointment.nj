@@ -1,6 +1,6 @@
 {% extends "../templates/layout.nj" %}
 {% block head %}
-<title>Queen City Eye Care - Book Appointment</title>
+<title>EliteKutz - Book Appointment</title>
 {% endblock %}
 
 {% block content %}

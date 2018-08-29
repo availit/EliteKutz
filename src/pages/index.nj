@@ -1,6 +1,6 @@
 {% extends "../templates/layout.nj" %}
 {% block head %}
-<title>Queen City Eye Care</title>
+<title>EliteKutz - Plano Barbershop</title>
 {% endblock %}
 
 {% block content %}

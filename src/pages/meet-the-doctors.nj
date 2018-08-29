@@ -1,7 +1,7 @@
 {% extends "../templates/layout.nj" %}
 
 {% block head %}
-<title>Queen City Eye Care - Meet the doctors</title>
+<title>EliteKutz - Meet the barbers</title>
 {% endblock %}
 
 {% block content %}
@@ -10,7 +10,7 @@
 
 <div class="parallax-container valign-wrapper" style="height:250px;">
   <div class="container section no-padding">
-      <h1 class="header white-text text-lighten-2">Meet our doctors</h1>
+      <h1 class="header white-text text-lighten-2">Meet Our Barbers</h1>
   </div>
   <div class="parallax"><img src="../img/contacts.jpg" alt="Book your appointment"></div>
 </div>

@@ -4,33 +4,36 @@
       <div class="col l3 m6 s12">
         <h5 class="grey-text text-darken-4">Location</h5>
         <p class="grey-text text-darken-4">
-          520 W University<br />
-          Springfield, MO 65807</p>
-        <a class="waves-effect waves-dark btn-flat grey lighten-2" href="https://www.google.com/maps/dir//Queen+City+Eye+Care,+520+W+University+St+C,+Springfield,+MO+65807/@37.182759,-93.2994254,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x87cf6375c227c331:0xf2eeb6802ed44c10!2m2!1d-93.2972367!2d37.182759">
+          3131 Custer Rd #193,<br />
+          Plano, TX 75075</p>
+        <a class="waves-effect waves-dark btn-flat grey lighten-2" href="https://www.google.com/maps/dir//Elite+Kutz,+3131+Custer+Rd+%23+193,+Plano,+TX+75075/@33.0400688,-96.7364712,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x864c18643750cb95:0x862e4ef361fb25af!2m2!1d-96.7342825!2d33.0400688">
            <i class="material-icons left">near_me</i>Navigate</a>
       </div>
       <div class="col l3 m6 s12">
         <h5 class="grey-text text-darken-4">Hours</h5>
         <p class="grey-text text-darken-4">
-          Mon-Fri 9am-6pm<br />
-          Sat 9am-2pm</p>
+          Mon-Thu 10am-7pm<br />
+          Fri 9am-7pm<br />
+          Sat 8am-5pm<br />
+          Sun 12pm-4pm
+        </p>
       </div>
       <div class="col l3 m6 s12 grey-text text-darken-4">
         <h5>Questions?</h5>
-        <p>+1-417-831-8222</p>
-        <a class="waves-effect waves-dark btn-flat grey lighten-2" href="tel:1-417-831-8222">
+        <p>+1-972-673-0114</p>
+        <a class="waves-effect waves-dark btn-flat grey lighten-2" href="tel:1-972-673-0114">
            <i class="material-icons left">phone_in_talk</i>Call Now</a>
       </div>
       <div class="col l3 m6 s12 grey-text text-darken-4">
         <h5>Connect</h5>
-        <a href="https://www.facebook.com/QueenCity417/timeline?ref=page_internal" target="_blank" class="waves-effect waves-light btn-floating"><i class="fa fa-facebook"></i>Facebook</a>
-        <a href="https://www.linkedin.com/in/agnes-lan-tran-373156108/" target="_blank" class="waves-effect waves-light btn-floating"><i class="fa fa-linkedin"></i>LinkedIn</a>
+        <a href="https://www.instagram.com/elitekutz/" target="_blank" class="waves-effect waves-light btn-floating"><i class="fa fa-instagram"></i>Instagram</a>
+        <a href="https://twitter.com/elitekutz" target="_blank" class="waves-effect waves-light btn-floating"><i class="fa fa-twitter"></i>Twitter</a>
       </div>
     </div>
   </div>
   <div class="footer-copyright">
     <div class="container grey-text text-darken-3">
-    <a class="grey-text text-darken-3" href="http://queencityeyecare.com">Queen City Eye Care</a> © 2018 All Rights Reserved. <a href="#">Terms of Use</a> and <a href="#">Privacy Policy</a>
+    <a class="grey-text text-darken-3" href="https://elitekutz.com">EliteKutz</a> © 2018 All Rights Reserved. <a href="#">Terms of Use</a> and <a href="#">Privacy Policy</a>
     </div>
   </div>
 </footer>
