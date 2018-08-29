@@ -25,7 +25,7 @@
 
     </div>
   </div>
-  <div class="parallax"><img src="../img/slide1.jpg" alt="Parallax 1"></div>
+  <div class="parallax"><img src="../img/barber-brush-comb.jpb" alt="Parallax 1"></div>
 </div>
 
   <div class="no-pad">
@@ -36,21 +36,21 @@
             <div class="center promo promo-example">
               <i class="material-icons">verified_user</i>
               <h4 class="promo-caption light">Experienced Experts</h4>
-              <p class="center">We stick to a complete and full oculat examination process with every patient, every time.</p>
+              <p class="center">We offer appointments, but take walk-ins as well, making your experience with us as effortless and convenient as possible.</p>
             </div>
           </div>
           <div class="col s12 m4">
             <div class="center promo promo-example">
               <i class="material-icons">content_cut</i>
               <h4 class="promo-caption light">Complete Grooming Services</h4>
-              <p class="center">Provided is a huge spectr of services, including hand-picked designer frames and glasses.</p>
+              <p class="center">We specialize in African American hair care and our services include Fades, Tapers, Mohawks, Dark Caesars, Straight Razor Shaves, Layer Cuts and Wet-Shear Cuts just to name a few.</p>
             </div>
           </div>
           <div class="col s12 m4">
             <div class="center promo promo-example">
               <i class="material-icons">all_inclusive</i>
               <h4 class="promo-caption light">Diverse</h4>
-              <p class="center">Effective and immediate assistance with getting the perfect pair of high quality eye lens.</p>
+              <p class="center">Our staff of seasoned, professional barbers caters to a multicultural clientele.</p>
             </div>
           </div>
         </div>
@@ -63,25 +63,20 @@
           <div class="row">
             <p class="flow-text white-text light">
               Established in March of 1998 to serve Plano and its surrounding cities. Elite Kutz was created with one goal in mind - Customer Satisfaction. In order to accomplish this goal we have created an innovative, cutting-edge facility for our clients' enjoyment.
-
 We have multiple flat screen TV's which are strategically placed so that you will always be in the viewing area.
-
 free Wi-Fi access is provided for those who wish to bring their wireless devices along. We even offer complimentary ice cold beer with your service.
-
-We offer appointments, but take walk-ins as well, making your experience with us as effortless and convenient as possible. Our staff of seasoned, professional barbers caters to a multicultural clientele. We specialize in African American hair care and our services include Fades, Tapers, Mohawks, Dark Caesars, Straight Razor Shaves, Layer Cuts and Wet-Shear Cuts just to name a few.
-
 Our door is open and we invite you to stop by or make an appointment with Elite Kutz today.
             </p>
           </div>
           <br><br>
       </div>
-      <div class="parallax"><img src="../img/slide2.jpg" alt="Unsplashed background img 1"></div>
+      <div class="parallax"><img src="../img/adult-barber-beard.jpg" alt="background beard barber"></div>
     </div>
     <div class="section red accent-2 white-text">
       <div class="container">
         <div class="row valign-wrapper">
           <div class="col s12 m7">
-            <h3 class="light subheader">Book Your Exam Appointment Online</h3>
+            <h3 class="light subheader">Book Your Appointment Online</h3>
           </div>
           <div class="col s12 m5 center-align">
             <a href="/appointment" class="btn white black-text waves-effect waves-dark pulse">Create Appointment</a>

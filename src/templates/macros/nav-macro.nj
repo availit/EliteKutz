@@ -32,7 +32,7 @@
 <ul id="nav-mobile" class="sidenav blue-text collapsible collapsible-accordion">
   <li><a class="subheader">EliteKutz</a></li>
   <li class="{%if activePage =='home' %} active {% endif %}"><a class="collapsible-header waves-effect waves-blue black-text" href="/" tabindex="0">Home</a></li>
-  <li  class="{%if activePage == 'meetBarbers' %} active {% endif %}"><a class="collapsible-header waves-effect waves-blue" tabindex="1">Meet The Barbers</a></li>
+  <li  class="{%if activePage == 'meetBarbers' %} active {% endif %}"><a href="/meet-the-barbers" class="collapsible-header waves-effect waves-blue" tabindex="1">Meet The Barbers</a></li>
   <li class="{%if activePage == 'contact' %} active {% endif %}"><a class="collapsible-header waves-effect waves-blue black-text" href="/contact" tabindex="7">Contact Us</a></li>
   <li><a href="/book" class="waves-effect waves-light btn secondary">Book Now</a></li>
 </ul>
