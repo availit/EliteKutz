@@ -1,12 +1,12 @@
 {% extends "../templates/layout.nj" %}
 
 {% block head %}
-<title>EliteKutz - Meet the barbers</title>
+<title>EliteKutz - Meet the barbers - Barbershop in Plano Texas</title>
 {% endblock %}
 
 {% block content %}
 {% import 'macros/nav-macro.nj' as nav %}
-{{nav.active('meetDoctors')}}
+{{nav.active('meetBarbers')}}
 
 <div class="parallax-container valign-wrapper" style="height:250px;">
   <div class="container section no-padding">

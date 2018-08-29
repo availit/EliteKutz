@@ -1,6 +1,6 @@
 {% extends "../templates/layout.nj" %}
 {% block head %}
-<title>EliteKutz - Plano Barbershop</title>
+<title>EliteKutz - Barbershop in Plano Texas</title>
 {% endblock %}
 
 {% block content %}
@@ -13,11 +13,12 @@
 
       <div class="row">
         <div class="col s12">
-          <h2 class="header white-text text-lighten-2">Looking Better</h2>
-          <h4 class="header white-text text-lighten-2">is Feeling Better..</h4>
+          <h2 class="header white-text text-lighten-2">REAL MAN</h2>
+          <h4 class="header white-text text-lighten-2">GO TO REAL</h4>
+          <h2 class="header white-text text-lighten-2">BARBERS</h2>
         </div>
         <div class="col s12">
-          <a href="/appointment" class="btn-large waves-effect waves-light indigo">Make an Appointment</a>
+          <a href="/appointment" class="btn-large waves-effect waves-light indigo">Book Your Appointment</a>
         </div>
       </div>
 
@@ -33,22 +34,22 @@
         <div class="row">
           <div class="col s12 m4">
             <div class="center promo promo-example">
-              <i class="material-icons">visibility</i>
-              <h4 class="promo-caption light">Comprehensive Eye Exams</h4>
+              <i class="material-icons">thumb_up</i>
+              <h4 class="promo-caption light">Experienced Experts</h4>
               <p class="center">We stick to a complete and full oculat examination process with every patient, every time.</p>
             </div>
           </div>
           <div class="col s12 m4">
             <div class="center promo promo-example">
-              <i class="material-icons">looks</i>
-              <h4 class="promo-caption light">Complete Optical Services</h4>
+              <i class="material-icons">content_cut</i>
+              <h4 class="promo-caption light">Complete Grooming Services</h4>
               <p class="center">Provided is a huge spectr of services, including hand-picked designer frames and glasses.</p>
             </div>
           </div>
           <div class="col s12 m4">
             <div class="center promo promo-example">
-              <i class="material-icons">pageview</i>
-              <h4 class="promo-caption light">Contact Lens Examination</h4>
+              <i class="material-icons">all_inclusive</i>
+              <h4 class="promo-caption light">Diverse</h4>
               <p class="center">Effective and immediate assistance with getting the perfect pair of high quality eye lens.</p>
             </div>
           </div>
@@ -58,7 +59,7 @@
     <div class="parallax-container valign-wrapper">
       <div class="container section no-pad">
           <br><br>
-          <h1 class="header white-text text-lighten-2">Our Mission –</h1>
+          <h1 class="header white-text text-lighten-2">About Us –</h1>
           <div class="row">
             <p class="flow-text white-text light">
               Our mission is to exceed our patients’ expectations by always demonstrating ethics, compassion and professionalism in a friendly family orientated atmosphere. By focusing on providing the most proficient eye care available our knowledgeable staff will be genuinely helpful and friendly in giving you the vision you deserve.

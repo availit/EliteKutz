@@ -1,7 +1,7 @@
 {% extends "../templates/layout.nj" %}
 
 {% block head %}
-<title>EliteKutz - Contact Us</title>
+<title>EliteKutz - Contact Us - Barbershop in Plano Texas</title>
 {% endblock %}
 
 {% block content %}
