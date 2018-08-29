@@ -5,7 +5,7 @@
 
 {% block content %}
 {% import 'macros/nav-macro.nj' as nav %}
-{{nav.active('home')}}
+{{nav.active('book')}}
 
 <div class="parallax-container valign-wrapper" style="height:250px;">
   <div class="container section no-pad">
@@ -48,17 +48,11 @@
               <span class="helper-text" data-error="This field is required."></span>
             </div>
             <div class="input-field col s12">
-                <input name="date_of_birth" id="birthdate" type="text" class="datepicker validate" required>
-                <label for="birthdate">Date of Birth*</label>
-                <span class="helper-text" data-error="This field is required."></span>
-            </div>
-            <div class="input-field col s12">
               <select name="reason_for_visit">
                 <option value="" disabled selected>Select Reason*</option>
-                <option value="Eyeglass Update">Eyeglass Update</option>
-                <option value="Contact Lens Update">Contact Lens Update</option>
-                <option value="Diabetic/Medical Eye Update">Diabetic/Medical Eye Update</option>
-                <option value="Red Eye Check">Red Eye Check</option>
+                <option value="Haircut">Haircut</option>
+                <option value="Edge up">Edge up</option>
+                <option value="Beard Trim">Beard Trim</option>
                 <option value="Other">Other (Please specify in comments)</option>
               </select>
               <label>Reason for visit</label>
@@ -75,38 +69,6 @@
                 <input name="apt_time" id="appointmentTime" type="text" class="timepicker validate" required>
                 <label for="appointmentTime">Desired Time*</label>
                 <span class="helper-text" data-error="This field is required."></span>
-            </div>
-            <div class="input-field col s12">
-              <select name="vision_insurance">
-                <option value="" disabled selected>Select Vision Insurance</option>
-                <option value="NONE">NONE</option>
-                <option value="VSP">VSP</option>
-                <option value="EyeMed">EyeMed</option>
-                <option value="Spectera">Spectera</option>
-                <option value="Medicaid">Medicaid</option>
-                <option value="I don't know">I don't know</option>
-                <option value="Other">Other (Please specify in comments)</option>
-              </select>
-              <label>Vision Insurance</label>
-            </div>
-            <div class="input-field col s12">
-              <select name="medical_insurance">
-                <option value="" disabled selected>Select Medical Insurance</option>
-                <option value="Aetna">Aetna</option>
-                <option value="BCBS">BCBS</option>
-                <option value="Coventry">Coventry</option>
-                <option value="Humana">Humana</option>
-                <option value="United Health Care">United Health Care</option>
-                <option value="UMR">UMR</option>
-                <option value="Medicare">Medicare</option>
-                <option value="I don't know">I don't know</option>
-                <option value="Other">Other (Please specify in comments)</option>
-              </select>
-              <label>Medical Insurance</label>
-            </div>
-            <div class="input-field col s12">
-             <input name="insurance_id" id="insuranceId" type="text" class="validate">
-             <label for="insuranceId">Medical Insurance ID</label>
             </div>
             <div class="input-field col s12">
               <textarea name="comments" id="comments" class="materialize-textarea" data-length="1000" required></textarea>
