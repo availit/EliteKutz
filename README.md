@@ -1,4 +1,4 @@
-# QueenCityEyeCare
+# EliteKutz
 
 > A static website boilerplate utilizing Materialize CSS framework
 > Built for deployment using [Netlify](http://netlify.com)
