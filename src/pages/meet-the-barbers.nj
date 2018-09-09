@@ -20,23 +20,39 @@
       <div class="row">
         <div class="col s12">
           <p class="flow-text light">
-            The doctors and staff at Queen City Eye Care are pleased to welcome you to our practice. Our commitment is not just in meeting your expectations, but in exceeding them! Because we know how much your eye health and appearance can mean to the quality of your life, we are committed to excellence in servicing your complete eye care needs.
+            The barbers and staff at EliteKutz are pleased to welcome you to our practice. Our commitment is not just in meeting your expectations, but in exceeding them! Because we know how much your hair and appearance can mean to the quality of your life, we are committed to excellence in servicing your hair grooming needs.
           </p>
         </div>
         <div class="col s12 no-padding">
-           <h3 class="header">Dr. Agnes Tran</h3>
+           <h4 class="header">Janmichael "koolkutta" Mcdaniel</h4>
            <div class="card horizontal">
              <div class="card-image">
-               <img src="../img/doctor-tran.png" alt="Dr. Agnes Lan Tran">
+               <img src="../img/barbers/jmike.png" alt="Janmichael 'koolkutta' Mcdaniel">
              </div>
              <div class="card-stacked">
                <div class="card-content">
-                 <p>Dr. Tran is a therapeutic optometrist licensed to diagnose & treat eye anomalies & diseases. She is dedicated to providing exceptional eye care to everyone while focusing her attention to those who are unable to come to her.</p>
+                 <p>Has been cutting hair for over 20 years. Graduating from Dallas Barber and Stylist college. He specializes in cutting all ranges of hair textures from straight hair to course hair. Layer style and any designer style you can come up with. Military cuts to rockstar mohawk fades. Whatever your pleasure he will accomadate.</p>
                  <br />
-                 <p>Born in Vietnam, Dr. Tran arrived in the USA at the age of 3 and has made Springfield her home since 1984. She graduated from Springfield Catholic High School in 1989 and attended the Southwest Missouri State University, Drury University and the University of Missouri-St. Louis for her doctorate of optometry.</p>
                </div>
                <div class="card-action">
-                 <a href="/appointment" class="indigo-text">Make an Appointment</a>
+                 <a href="/book" class="indigo-text">Make an Appointment</a>
+               </div>
+             </div>
+           </div>
+        </div>
+        <div class="col s12 no-padding">
+           <h4 class="header">Roy "phat Rat" Montgomery</h4>
+           <div class="card horizontal">
+             <div class="card-image">
+               <img src="../img/barbers/roy.png" alt="Roy 'phat Rat' Montgomery">
+             </div>
+             <div class="card-stacked">
+               <div class="card-content">
+                 <p>Has been cutting hair for over 20 years. Graduating from Dallas Barber and Stylist college. He specializes in cutting all ranges of hair textures from straight hair to course hair. Layer style and any designer style you can come up with. Military cuts to rockstar mohawk fades. Whatever your pleasure he will accomadate.</p>
+                 <br />
+               </div>
+               <div class="card-action">
+                 <a href="/book" class="indigo-text">Make an Appointment</a>
                </div>
              </div>
            </div>

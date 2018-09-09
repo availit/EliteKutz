@@ -18,7 +18,7 @@
           <h2 class="header white-text text-lighten-2">BARBERS</h2>
         </div>
         <div class="col s12">
-          <a href="/appointment" class="btn-large waves-effect waves-light indigo">Book Your Appointment</a>
+          <a href="/book" class="btn-large waves-effect waves-light indigo">Book Your Appointment</a>
         </div>
       </div>
 
@@ -79,7 +79,7 @@ Our door is open and we invite you to stop by or make an appointment with Elite 
             <h3 class="light subheader">Book Your Appointment Online</h3>
           </div>
           <div class="col s12 m5 center-align">
-            <a href="/appointment" class="btn white black-text waves-effect waves-dark pulse">Create Appointment</a>
+            <a href="/book" class="btn white black-text waves-effect waves-dark pulse">Create Appointment</a>
           </div>
         </div>
       </div>

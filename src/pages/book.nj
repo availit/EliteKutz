@@ -11,7 +11,7 @@
   <div class="container section no-pad">
       <h1 class="header white-text text-lighten-2">Schedule an Appointment</h1>
   </div>
-  <div class="parallax"><img src="../img/contacts.jpg" alt="Book your appointment"></div>
+  <div class="parallax"><img src="../img/parallax2.jpg" alt="Book your appointment"></div>
 </div>
 
   <div class="no-pad-bot">
@@ -80,7 +80,7 @@
             </div>
 
             <div class="input-field col s12">
-              <button type="submit" class="btn-large waves-effect waves-light secondary" style="width:100%">
+              <button type="submit" class="btn-large waves-effect waves-light secondary green darken-2" style="width:100%">
                 <i class="material-icons right">send</i>Submit Appointment</button>
             </div>
           </div>
@@ -90,15 +90,15 @@
     <div class="parallax-container valign-wrapper">
       <div class="container section no-pad">
           <br><br>
-          <h1 class="header white-text text-lighten-2">Our Mission –</h1>
+          <h1 class="header white-text text-lighten-2" style="text-align:right;">Our Mission</h1>
           <div class="row">
-            <p class="flow-text white-text light">
+            <p class="flow-text white-text light" style="padding: 0 15px; background: rgba(0,0,0,0.5);">
               Our mission is to exceed our patients’ expectations by always demonstrating ethics, compassion and professionalism in a friendly family orientated atmosphere. By focusing on providing the most proficient eye care available our knowledgeable staff will be genuinely helpful and friendly in giving you the vision you deserve.
             </p>
           </div>
           <br><br>
       </div>
-      <div class="parallax"><img src="../img/slide2.jpg" alt="Unsplashed background img 1"></div>
+      <div class="parallax"><img src="../img/parallax1.jpg" alt="Unsplashed background img 1"></div>
     </div>
   </div>
 

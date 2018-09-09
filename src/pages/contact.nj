@@ -11,7 +11,7 @@
     <div class="container section no-pad">
         <h1 class="header white-text text-lighten-2">Contact Us</h1>
     </div>
-    <div class="parallax"><img src="../img/slide3.jpg" alt="Contact Us"></div>
+    <div class="parallax"><img src="../img/parallax1.jpg" alt="Contact Us"></div>
   </div>
 
   <div class="container section no-pad-bot" id="index-banner">
@@ -44,7 +44,7 @@
                 <div data-netlify-recaptcha></div>
               </div>
               <div class="input-field col s12">
-                <button class="btn-large waves-effect waves-light secondary right" type="submit" name="action" style="width:100%">Submit
+                <button class="btn-large waves-effect waves-light green darken-1 right" type="submit" name="action" style="width:100%">Submit
                   <i class="material-icons right">send</i>
                 </button>
               </div>
